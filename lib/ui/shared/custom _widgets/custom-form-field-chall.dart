@@ -23,7 +23,7 @@ class CustomFieldChall extends StatelessWidget {
       validator: validator,
       maxLines: maxLines,
       textAlignVertical: TextAlignVertical.top,
-      style: style ?? TextStyle(color: AppColors.color5),
+      style: style ?? TextStyle(color: AppColors.grey),
       controller: controller,
       decoration: InputDecoration(
         // contentPadding: EdgeInsets.only(
