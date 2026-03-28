@@ -114,9 +114,13 @@ This project simulates a real-world NGO management system and demonstrates the a
 ## 📸 Screenshots
 
 <!-- ![Login](login.png) -->
-<!-- ![Dashboard](link) -->
-
----
-
+<!-- ![Dashboard](dashboard.jpg) -->
+<!-- ![services](service.png) -->
+<!-- ![users](users.jpg) -->
+<!-- ![reports](report.jpg) -->
+<!-- ![evaluation](evalution.jng) -->
+<!-- ![news](news.jpg) -->
+<!-- ![activities](activity.jpg) -->
+<!-- ![admin](admin.jpg) -->
 ## 🔗 Repository
 [ضع رابط المشروع]
