@@ -123,4 +123,4 @@ This project simulates a real-world NGO management system and demonstrates the a
 <!-- ![activities](activity.jpg) -->
 <!-- ![admin](admin.jpg) -->
 ## 🔗 Repository
-[ضع رابط المشروع]
+[https://github.com/raghadamore/flutter_dashboard/]
