@@ -113,7 +113,7 @@ This project simulates a real-world NGO management system and demonstrates the a
 
 ## 📸 Screenshots
 
-<!-- ![Login](login.png) -->
+<![Login](login.png)>
 <!-- ![Dashboard](dashboard.jpg) -->
 <!-- ![services](service.png) -->
 <!-- ![users](users.jpg) -->
